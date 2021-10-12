@@ -1,0 +1,16 @@
+un sistema operativo es aquello que genera la comunicacion entre el usuario y el hardware del dispositivo en el que se este trabajando manejando los recursos de la misma
+
+
+Un sistema operativo consiste en un conjunto de programas que se encargan de gestionar todos los recursos que tienen el equipo para ejecutar 
+las aplicaciónes y permitir que el usuario pueda interactuar con la maquina
+
+actualmente el sistema operativo mas conocido en el mundo es windows ya que es el sistema operativo que tienen los computadores que se pueden adquirir hoy en dia a excepcion
+de los equipos de la marca apple ya que esta marca maneja su propio sitema operativo el cual es Mac os estos 2 sistemas operativos deben ser adquiridos ya sea por al compra
+de un equipo que lo traiga o la compra de una licensia aunque tambien hay sistemas operativos libres como es el caso de Linux el cual es la forma en la que se le conoce a los
+sistemas operativos tipo unix como es el caso de ubuntu aunque no unicamente los computadores usan sistemas operativos los celulares tambien y en su caso el sistema operativo
+mas conocido seria android y ios en el caso de los dispositivos apple
+
+
+Con el tiempo el objetivo de los sistemas operativos se a convertido en generar una interfaz que permita la sencilla manipulación ademas de ser intuitivo para que cualquier
+persona pueda usar un equipo que tenga sitema operativo
+
