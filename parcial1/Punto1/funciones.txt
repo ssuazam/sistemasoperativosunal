@@ -1,0 +1,11 @@
+Funciones del sistema operativo 
+1.Interfaz del usuario: 
+    permite la comunicación entre el usuario y la computadora para que se puedan cargar programas, acceder archivos y otras tareas. 
+2.Administración de recursos: 
+    administra los recursos del hardware como la del CPU, memoria, dispositivos de almacenamiento secundario y periféricos de entrada y de salida. 
+3.Administración de archivos: 
+    controla la creación, borrado y acceso de archivos de datos y de programas.
+4.Administración de tareas: 
+    administra la realización de las tareas informáticas de los usuarios finales pueden distribuir una parte específica del tiempo del CPU para una tarea en particular e interrumpir en cualquier momento para sustituirla con otra.
+5.Seguridad del ordenador: 
+    controla la seguridad atravez de permisos y realizando controles periodicos en busqueda de agentes maliciosos.

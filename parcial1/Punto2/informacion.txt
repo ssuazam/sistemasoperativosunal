@@ -1,0 +1,3 @@
+{"fee":{"name":"deposit","percent":0,"base":["0.0","ETH"]}}
+{"ticker":{"market_id":"ETH-BTC","last_price":["0.072","BTC"],"min_ask":["0.07267354","BTC"],"max_bid":["0.072","BTC"],"volume":["1.795703767","ETH"],"price_variation_24h":"0.011","price_variation_7d":"0.026"}}
+{"trades":{"market_id":"ETH-BTC","timestamp":null,"last_timestamp":"1636132211818","entries":[["1636393453389","0.130597354","0.072","sell",3799385],["1636393453389","0.002792639","0.072","sell",3799384],["1636393453389","0.000055417","0.072","sell",3799383],["1636386938007","0.437","0.072","sell",3797971],["1636378441113","0.8501
