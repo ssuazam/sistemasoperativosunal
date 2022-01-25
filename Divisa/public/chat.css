@@ -1,0 +1,103 @@
+:root {
+	--dark-color-a: #3b3b3b;
+	--dark-color-b: #ff0000;
+	--light-color: #0ba718;
+	--success-color: #1f831f;
+	--error-color: #ffffff;
+}
+
+* {
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	font-family: 'Viga', sans-serif;
+	font-size: 20px;	
+	background-image: url(https://media.discordapp.net/attachments/503003865919127572/935448815366996019/black-370118.png?width=1045&height=671);
+	background-size: cover;
+	background-repeat:no-repeat;
+	margin: 20px;
+}
+
+
+
+/* Chat Page */
+
+.chat-container {
+	max-width: 1100px;
+	font-size: 20px;
+	background: rgb(70, 73, 77);
+	color: white;
+	border-radius: 15px;
+	margin: 30px auto;
+	overflow: hidden;
+}
+
+.chat-header {
+	background: var(--dark-color-a);
+	color: rgb(48, 165, 48);
+	border-top-left-radius: 5px;
+	border-top-right-radius: 5px;
+	padding: 15px;
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+}
+
+#chat-messages {
+	padding: 30px;
+	height: 500px;
+	overflow-y: scroll;
+}
+
+.chat-messages .message {
+	padding: 10px;
+	margin-bottom: 15px;
+	background-color: var(--light-color);
+	border-radius: 5px;
+	overflow-wrap: break-word;
+}
+
+.chat-messages .message .meta {
+	font-size: 15px;
+	font-weight: bold;
+	color: var(--dark-color-b);
+	opacity: 0.7;
+	margin-bottom: 7px;
+}
+
+.chat-messages .message .meta span {
+	color: rgb(255, 0, 0);
+}
+
+.chat-form-container {
+	padding: 20px 30px;
+	background-color: var(--dark-color-a);
+}
+
+.chat-form-container form {
+	display: flex;
+}
+
+.chat-form-container input[type='text'] {
+	font-size: 16px;
+	padding: 5px;
+	height: 40px;
+	flex: 1;
+}
+button {
+	font-family: 'Viga', sans-serif;
+    background:  rgb(70, 73, 77);
+	font-size: 1cm;
+    color: rgb(48, 165, 48);    
+    border: 0px;
+	border-radius: 15px;
+	width: 200px;
+    padding: 12px 0;  
+	align-items: center;  
+    
+	
+}
+
